@@ -1,0 +1,29 @@
+h1 {
+    color: darkred;
+    font-family: "Times New Roman", sans-serif;
+}
+
+h2 {
+    color: rosybrown;
+}
+
+img {
+    height: auto;
+    /* text-align: center; */
+}
+
+.recipe-list,
+.index-link {
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.recipe-list a {
+    color:cornflowerblue;
+}
+
+.index-link {
+    background-color:royalblue;
+    color: white;
+    text-align: left
+}
