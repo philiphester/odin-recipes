@@ -7,15 +7,26 @@
 h1 {
     color: darkred;
     font-family: "Times New Roman", sans-serif;
+    margin: 18px auto;;
 }
 
 h2 {
-    color:blueviolet;
+    color: coral;
+    margin: 12px auto;
     }
+
+h3 {
+    margin: 12px auto;
+}
 
 img {
     height: auto;
     /* text-align: center; */
+}
+
+ul,
+ol {
+    margin: auto 20px;
 }
 
 .recipe-list,
@@ -74,4 +85,9 @@ img {
     font-weight: bold;
     padding: 8px;
     display: inline-block;
+}
+
+.recipe-page {
+    margin: 30px;
+    font-size: 18px;
 }
